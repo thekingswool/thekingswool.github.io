@@ -1,1 +1,5 @@
 /*this is the css stylesheet for my website*/
+* {
+  background-color: blue; 
+  margin: auto 0px auto 0px
+}
