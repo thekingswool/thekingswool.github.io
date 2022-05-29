@@ -1,11 +1,29 @@
-/*this is the css stylesheet for my website*/
-h1 {
-  background-color: red; 
-  margin: 0px auto 0px auto
-  width: 50%;
-  height: 50%;
-}
-
+p   {
+    width: 500px;
+    background-color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
 body {
-  background-color: #ead7f5;
-}
+    background-color: #ead7f5;
+  }
+
+img {
+      display: block;
+      margin-bottom: 50%;
+      width: 500px;
+      height: 500px;
+      margin-left: auto;
+      margin-right: auto;
+  }
+
+h1 {
+      margin-top: 50%;
+      text-align: center;
+      background-color: white;
+      width: 500px;
+      margin-left: auto;
+      margin-right: auto;
+  }
